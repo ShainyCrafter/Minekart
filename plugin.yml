@@ -1,0 +1,6 @@
+name: Minekart
+version: 1.0.0
+main: shainy\minekart\Main
+src-namespace-prefix: shainy\minekart
+api: 4.0.0
+author: shainy
