@@ -1,3 +1,3 @@
 # Minekart
  
- Releasesにあるリソースパックを導入しておいてください
+ Releasesにあるリソースパック（minekart.zip）を導入しておいてください
